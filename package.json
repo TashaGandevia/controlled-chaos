@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "controlled-chaos",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "An Obsidian plugin to control the chaos of full time school, full time parenting, and just life in general",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
